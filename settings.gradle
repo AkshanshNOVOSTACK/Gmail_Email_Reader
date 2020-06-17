@@ -1,0 +1,2 @@
+rootProject.name='WFH'
+include ':app'
